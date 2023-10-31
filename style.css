@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: rgb(179, 25, 125);
+    background-color: rgb(255, 255, 255);
     margin: 0;
 }
 
@@ -20,7 +20,7 @@ h3{
 
 h1{
     font-size: 30px;
-    color: rgb(0, 0, 0)
+    color: rgb(52, 27, 27)
 }
 .logo{
     width: 10%;
@@ -38,7 +38,7 @@ nav{
 nav a {
     font-size: 20px;
     padding-left: 20px;
-    color: #f40606;
+    color: #000000;
     text-decoration:none;
     text-transform: uppercase;
 }
